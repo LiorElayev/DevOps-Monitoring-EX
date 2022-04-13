@@ -8,7 +8,7 @@
 <title>Current Date</title>
 </head>
 <body>
- Today's date:
+ Today's date :
  <%=(new java.util.Date()).toLocaleString()%>
 </body>
 </html>
